@@ -113,10 +113,10 @@ class GameServers
         'HaiMaoChaWu',
         'RouFengHaiWan',
         'HuPoYuan',
-        'ShuiJingTa',
-        'YinLeiHu',
-        'TaiYangHaiAn',
-        'YiXiuJiaDe'
+        'ShuiJingTa2',
+        'YinLeiHu2',
+        'TaiYangHaiAn2',
+        'YiXiuJiaDe2'
     ];
 
     const MARKET_SERVER = 'Balmung';
@@ -264,10 +264,10 @@ class GameServers
             'HuPoYuan'
         ],
         '豆豆柴' => [
-            'ShuiJingTa',
-            'YinLeiHu',
-            'TaiYangHaiAn',
-            'YiXiuJiaDe'
+            'ShuiJingTa2',
+            'YinLeiHu2',
+            'TaiYangHaiAn2',
+            'YiXiuJiaDe2'
         ],
 
         // Korean servers don't have datacenters, so we're going to call them "Korea"
