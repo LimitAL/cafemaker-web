@@ -112,7 +112,11 @@ class GameServers
         'MoDuNa',
         'HaiMaoChaWu',
         'RouFengHaiWan',
-        'HuPoYuan'
+        'HuPoYuan',
+        'ShuiJingTa',
+        'YinLeiHu',
+        'TaiYangHaiAn',
+        'YiXiuJiaDe'
     ];
 
     const MARKET_SERVER = 'Balmung';
@@ -132,9 +136,11 @@ class GameServers
         '陆行鸟'        => 4,
         '莫古力'        => 4,
         '猫小胖'        => 4,
+        '豆豆柴'        => 4,
         'LuXingNiao'    => 4,
         'MoGuLi'        => 4,
-        'MaoXiaoPang'   => 4
+        'MaoXiaoPang'   => 4,
+        'DouDouChai'    => 4
     ];
 
     const LIST_DC = [
@@ -256,6 +262,12 @@ class GameServers
             'HaiMaoChaWu',
             'RouFengHaiWan',
             'HuPoYuan'
+        ],
+        '豆豆柴' => [
+            'ShuiJingTa',
+            'YinLeiHu',
+            'TaiYangHaiAn',
+            'YiXiuJiaDe'
         ],
 
         // Korean servers don't have datacenters, so we're going to call them "Korea"
